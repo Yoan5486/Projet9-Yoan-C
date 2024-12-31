@@ -1,0 +1,20 @@
+Eviter les changements de mise en page
+Réduire drastiquement le contenu du CSS en regroupant par class plutôt que par élements (bootstrap.css)
+ 
+Largest Contentful Paint différer son chargement 
+Diffusier les images a des formats adéquates 
+Dimensionner les images
+Reduire la taille des ressources JS, enlever les codes inutiles
+Donner une width et une height aux images
+Éviter les tâches longues dans le thread principal
+Trop de taille dans le DOM
+Éviter les chaînes de requêtes critiques 
+Éviter les animations non composées
+Éviter document.write
+Éviter d'utiliser de l'ancien JS
+Supprimer les modules en doubles dans le groupes JS*
+Éviter les redirections de pages multiples
+Activer la compression de textes
+Simplifier le index.html 
+
+
